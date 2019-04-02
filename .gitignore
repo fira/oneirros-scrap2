@@ -1,3 +1,4 @@
+/lib/test.rb
 /vendor/
 /.bundle/
 /.yardoc
@@ -8,3 +9,4 @@
 /pkg/
 /spec/reports/
 /tmp/
+oneirros-mechanized-cookies.yaml
