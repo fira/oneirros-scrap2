@@ -1,5 +1,4 @@
 require 'nokogiri'
-require 'pp'
 
 module Oneirros
   module Scrap2
@@ -43,7 +42,6 @@ module Oneirros
         @rumap["ИНД В"] = "milindex"
         @rumap["ИНД М"] = "medindex"
         @rumap["ИНД Р"] = "devindex"
-
       end
 
       def parse(mechanizedpage)
